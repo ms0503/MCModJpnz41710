@@ -107,13 +107,13 @@ extracells.tooltip.storage.container.0=設置モード
 extracells.tooltip.storage.container.1=置換モード (1*1)
 extracells.tooltip.storage.container.2=置換モード (3*3)
 extracells.tooltip.storage.fluid.bytes=%s / %s バイト使用済み
-extracells.tooltip.storage.fluid.content=contains %s mB of fluid.
+extracells.tooltip.storage.fluid.content=contains %s mB of fluid.(未翻訳)
 extracells.tooltip.storage.fluid.types=%s / %s タイプ
 extracells.tooltip.storage.gas.bytes=%s / %s バイト使用済み
-extracells.tooltip.storage.gas.content=contains %s of gas.
+extracells.tooltip.storage.gas.content=contains %s of gas.(未翻訳)
 extracells.tooltip.storage.gas.types=%s / %s タイプ
 extracells.tooltip.storage.physical.bytes=%s / %s バイト使用済み
-extracells.tooltip.storage.physical.content=contains %s items.
+extracells.tooltip.storage.physical.content=contains %s items.(未翻訳)
 extracells.tooltip.storage.physical.types=%s / %s タイプ
 
 // GUI

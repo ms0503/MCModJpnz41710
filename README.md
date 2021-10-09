@@ -1,6 +1,7 @@
 # Minecraft MOD Japanize for MC1.7.10
 1.7.10向けの各MODの公式日本語訳や英語表記をベースに改良や翻訳漏れの修正などを行ったリソースパックです。
 ## 対応MOD
+- [Applied Energistics 2 rv3-beta-6](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/all?filter-game-version=2020709689%3A4449)
 - [ExtraCells2 1.7.10-2.3.14b200](https://www.curseforge.com/minecraft/mc-mods/extracells2/files/all?filter-game-version=2020709689%3A4449)
 - [FlenixCities \[1.7.10\]-0.17.0-b139](https://www.curseforge.com/minecraft/mc-mods/flenixcities/files/all?filter-game-version=2020709689%3A4449)
 - [Jammy Furniture Mod V4.6_RC1](https://bitbucket.org/Zuxelus/jammy_furniture_mod/downloads/)

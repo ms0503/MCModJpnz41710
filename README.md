@@ -16,9 +16,4 @@
   - [World](https://www.curseforge.com/minecraft/mc-mods/project-red-world/files/all?filter-game-version=2020709689%3A4449)
 ## 要請
 (L:行数)
-```
-(L:110) extracells.tooltip.storage.fluid.content=contains %s mB of fluid.
-(L:113) extracells.tooltip.storage.gas.content=contains %s of gas.
-(L:116) extracells.tooltip.storage.physical.content=contains %s items.
-```
-の3つの使用箇所が見当たらないので見つけたら適宜ファイル修正してコミットしてください。
+特になし

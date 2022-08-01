@@ -14,6 +14,10 @@
   - [Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/all?filter-game-version=2020709689%3A4449)
   - [Mechanical](https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical/files/all?filter-game-version=2020709689%3A4449)
   - [World](https://www.curseforge.com/minecraft/mc-mods/project-red-world/files/all?filter-game-version=2020709689%3A4449)
-## 要請
-(L:行数)
-特になし
+- [竹](https://forum.civa.jp/viewtopic.php?t=279)
+## ライセンス
+This project is licensed under [GNU Free Document License, Version 1.3](https://www.gnu.org/licenses/fdl-1.3.html).
+
+## 制作者
+Sora Tonami <ms0503@outlook.com> ([@ms0503](https://github.com/ms0503/))
+
